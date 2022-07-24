@@ -1,0 +1,36 @@
+.heading{
+    width:100%;
+    text-align:left;
+}
+h2{
+    display:inline;
+}
+.heading button{
+    float:right;
+    border:1px solid purple;
+}
+.big{
+    width:100%;
+}
+#start, #status{
+    font-size:22px;
+    border-radius:20px;
+}
+h4{
+    background-color: rgb(189, 255, 255);
+    line-height:2;
+    border-width:0px;
+}
+.modal-dialog{
+    width:90%;
+}
+.instruction_image{
+    width:45%;
+    display: inline-block;
+}
+video{
+    background:url("game_console.png");
+    background-size:cover;
+    background-position: center;
+    padding:25px;
+}
